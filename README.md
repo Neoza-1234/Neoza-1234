@@ -39,7 +39,6 @@ Im currently working on my portfoio website to showcase what i've learned so far
 Feel free to reach out or follow my journey:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/neo-chuene-189562293)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](http://tiktok.com/@lunarwakestudio)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LunarWake)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![ArtStation](https://img.shields.io/badge/ArtStation-black?logo=artstation)]((https://www.artstation.com/lunarwakemotion))
